@@ -1,0 +1,157 @@
+body{
+    
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 95%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    background-color: #504949;
+}
+.count{
+    margin-top: -70px;
+    margin-left: 82px;
+    position: absolute;
+    background-color: #363232;
+    padding: 10px 5px 10px 5px;
+}
+.niger{
+    
+    
+    margin-top: 7%;
+    margin-left: 42%;
+}
+.ssil{
+    text-decoration: none;
+    color: #fff;
+    padding: 20px 20px 20px 20px;
+}
+.ssil:hover{
+    text-decoration: none;
+}
+.lili{
+    cursor: pointer;
+    text-decoration: none;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    padding-top: 30px;
+    transition: all 0.3s ease;
+
+
+}
+.NC{
+    margin-left: 30px;
+    margin-top: -34px;
+}
+.lili:hover{
+    background-color: #363232;
+}
+
+.coin{
+    margin-left: 44%;
+    margin-top: 50px;
+    color:#fff;
+    font-size: 30px;
+    width: 300px;
+
+}
+
+.prib{
+    margin-left: 70%;
+}
+.all{
+    padding-top: 100px;
+}
+.button{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+  
+    align-self: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2px;
+  margin: 0 auto 30px;
+  border: none;
+  border-radius: 100px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+  background: url('https://i1.sndcdn.com/avatars-qZ9Qtz6Wjha4WPD4-yz0hAQ-t240x240.jpg');
+  box-shadow: 0 3px 3px #be8316;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.1s ease;
+  
+}
+
+.button:active{
+    height: 198px;
+    width: 198px;
+    margin-bottom: -100px;
+    margin-right: -2px;
+    position: absolute;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2px;
+  
+  border: none;
+  border-radius: 100px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+  background: url('https://i1.sndcdn.com/avatars-qZ9Qtz6Wjha4WPD4-yz0hAQ-t240x240.jpg');
+  box-shadow: 2px 2px 10px 2px #000;
+  cursor: pointer;
+  text-decoration: none;
+  align-self: center;
+}
+
+
+.buying {
+    height: 40px;
+    width: 100px;
+    background-color: #be8316;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 900;
+    border: none;
+    cursor: pointer;
+    transition: all 0.1s ease;
+
+
+  }
+  .buying:active {
+    height: 40px;
+    width: 100px;
+    background-color: #be8316;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 900;
+    border: none;
+    cursor: pointer;
+    box-shadow: 2px 2px 10px 2px #000;
+    
+
+  }
+  
+
+
+
+.ul_l{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    margin-left: 28%;
+}
